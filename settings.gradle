@@ -1,0 +1,2 @@
+rootProject.name='midterm2_skeleton_project'
+include ':app'
